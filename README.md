@@ -1,7 +1,3 @@
-Below is an example of a README.md written in English for the MiniFlow repository. You can adjust details (such as installation instructions, usage examples, and license type) as needed:
-
----
-
 # MiniFlow
 
 MiniFlow is a lightweight C++ library for creating neural networks. It is inspired by the simplicity and design of the Python [MiniFlow library](https://github.com/karpathy/miniflow) and adapts its core concepts to C++. The goal of MiniFlow is to provide an intuitive, modular framework that makes it easy to experiment with neural network architectures and training routines in C++.
@@ -167,11 +163,3 @@ This project is distributed under the MIT License. See the [LICENSE](LICENSE) fi
 
 - Inspiration from the original [MiniFlow Python library](https://github.com/karpathy/miniflow) and various educational resources on neural network design.
 - Thanks to the contributors and maintainers of open-source neural network projects for their valuable insights.
-
----
-
-*Happy coding!*
-
----
-
-This README serves as a starting point for using and extending MiniFlow. Adjust and expand the sections as your project evolves.
